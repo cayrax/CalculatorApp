@@ -12,5 +12,6 @@ public class HttpServletResponse {
     }
 
     public PrintWriter getWriter() {
+        return null;
     }
 }
